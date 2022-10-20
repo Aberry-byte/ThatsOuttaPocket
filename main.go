@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/ThatsOuttaPocket/data"
-	"github.com/ThatsOuttaPocket/helpers"
+	"github.com/Aberry-byte/ThatsOuttaPocket/data"
+	"github.com/Aberry-byte/ThatsOuttaPocket/helpers"
 )
 
 func main() {
