@@ -1,0 +1,11 @@
+{
+  "name": "thats_outta_pocket",
+  "version": "1.0.0",
+  "description": "ThatsOuttaPocket twitter bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Huft",
+  "license": "GPL-3.0-or-later"
+}
